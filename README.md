@@ -1,3 +1,13 @@
+## 📸 Application Preview
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshot1.png)
+
+### 📊 Prediction Output
+![Prediction Output](assets/screenshot2.png)
+
+
+
 # 📈 Stock Price Prediction using LSTM
 
 A deep learning-based stock price prediction system built using **TensorFlow/Keras**.  
