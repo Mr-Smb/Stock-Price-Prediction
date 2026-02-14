@@ -8,6 +8,7 @@
   <img src="assets/Stock2.png" width="750"/>
 </p>
 
+---
 
 # 📈 Stock Price Prediction using LSTM
 
