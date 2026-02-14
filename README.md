@@ -1,17 +1,91 @@
-# 📈Stock_Price_Prediction
+# 📈 Stock Price Prediction using LSTM
 
-AI-powered application that predicts future stock prices using **LSTM** and **Machine learning models**.  
-This project combines deep learning, data visualization, and live market data to help users analyze and forecast stock trends effectively.
+A deep learning-based stock price prediction system built using **TensorFlow/Keras**.  
+This project uses historical stock data to predict future price trends using an LSTM neural network model.
 
-# 🚀 Features
-- 🧠 **LSTM-based Prediction Model** – Uses deep learning for time-series forecasting.  
-- 🔍 **Multiple ML Models** – Includes Linear Regression, Random Forest, and other algorithms for comparison.  
-- 📊 **Interactive Charts** – Visualizes real vs predicted prices, moving averages, and historical data.  
-- 💹 **Live Market Data** – Fetches real-time stock prices via APIs Yahoo Finance.  
-- ⚡ **User-Friendly Interface** – Simple and intuitive design for quick analysis.
+---
 
-# 🧩 Tech Stack
-- **Language:** Python, Html, Css
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow / Keras, Matplotlib, Plotly  
-- **Data Source:** Yahoo Finance API  
-- **Framework :** Streamlit
+## 🚀 Project Overview
+
+This application:
+
+- Loads a pre-trained LSTM model
+- Uses historical stock price data
+- Applies scaling & preprocessing
+- Predicts future stock prices
+- Displays prediction results via a Python application
+
+The model is trained and saved using Keras and deployed through a Python backend.
+
+---
+
+## 🧠 Tech Stack
+
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib 
+
+---
+
+## 📂 Project Structure
+
+```
+StockPricePrediction/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+└── models/
+    ├── Stock_Predictions_Model.keras
+    └── Stock_Predictions_Model.scaler
+```
+
+
+---
+
+## 📊 Model Details
+
+- Architecture: LSTM (Long Short-Term Memory)
+- Framework: Keras (TensorFlow backend)
+- Scaler: Standard/MinMax Scaler (saved for consistent preprocessing)
+- Output: Predicted stock price trend
+
+---
+
+## 🔐 Security
+
+- Virtual environments excluded
+- Clean project structure
+
+---
+
+## 📌 Future Improvements
+
+- Live stock API integration
+- Web-based dashboard (Streamlit / Flask)
+- Real-time prediction updates
+- Model retraining automation
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+**Mr Smb**  
+AI & Machine Learning Enthusiast  
+Focused on production-ready AI systems and intelligent automation.
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
