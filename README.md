@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/Stock1.png" width="750"/>
 </p>
-
+---
 <p align="center">
   <img src="assets/Stock2.png" width="750"/>
 </p>
