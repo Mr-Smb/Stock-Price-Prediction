@@ -1,9 +1,13 @@
-## 📸 Application Preview
+## 🏠 Home Screen
 
 <p align="center">
   <img src="assets/Stock1.png" width="750"/>
 </p>
+
 ---
+
+## 📊 Prediction Output
+
 <p align="center">
   <img src="assets/Stock2.png" width="750"/>
 </p>
