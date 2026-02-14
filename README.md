@@ -1,10 +1,12 @@
 ## 📸 Application Preview
 
-### 🏠 Home Screen
-![Home Screen](assets/screenshot1.png)
+<p align="center">
+  <img src="assets/screenshot1.png" width="700"/>
+</p>
 
-### 📊 Prediction Output
-![Prediction Output](assets/screenshot2.png)
+<p align="center">
+  <img src="assets/screenshot2.png" width="700"/>
+</p>
 
 
 
