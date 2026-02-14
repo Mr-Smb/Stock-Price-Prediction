@@ -1,13 +1,12 @@
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="700"/>
+  <img src="assets/Stock1.png" width="750"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot2.png" width="700"/>
+  <img src="assets/Stock2.png" width="750"/>
 </p>
-
 
 
 # 📈 Stock Price Prediction using LSTM
